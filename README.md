@@ -24,7 +24,7 @@ CNN sử dụng **phép tích chập (convolution)** để phát hiện các đ�
 
 <img src="https://github.com/phong2201/Computer-architecture/blob/main/image/b.png" alt="Convolution Example" width="400"/>
 
-*(Hình ảnh minh họa: Tích chập với ma trận 5x5 và kernel 3x3)*
+*(Hình ảnh minh họa: Tích chập với ma trận 5x5 và kernel 2x2)*
 
 Một vấn đề trong quá trình tích chập là mất dữ liệu ở biên ma trận. Để khắc phục, ta thêm **padding** – thường là giá trị 0 – vào xung quanh ảnh:
 
