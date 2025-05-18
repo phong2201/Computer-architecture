@@ -22,7 +22,7 @@ CNN sử dụng **phép tích chập (convolution)** để phát hiện các đ�
 
 ### Ví dụ tích chập:
 
-<img src="https://i.imgur.com/OCERePp.png" alt="Convolution Example" width="400"/>
+<img src="https://github.com/phong2201/Computer-architecture/blob/main/image/b.png" alt="Convolution Example" width="400"/>
 
 *(Hình ảnh minh họa: Tích chập với ma trận 5x5 và kernel 3x3)*
 
