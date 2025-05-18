@@ -30,7 +30,7 @@ Một vấn đề trong quá trình tích chập là mất dữ liệu ở biên
 
 ### Ví dụ padding:
 
-<img src="https://i.imgur.com/MeC8BE9.png" alt="Zero Padding" width="250"/>
+<img src="[https://i.imgur.com/MeC8BE9.png](https://github.com/phong2201/Computer-architecture/blob/main/image/a.png)" alt="Zero Padding" width="250"/>
 
 *(Hình ảnh minh họa: Padding 1 vào ma trận 3x3 thành 5x5)*
 
